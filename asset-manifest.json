@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.a8b65071.css",
-    "main.js": "/static/js/main.c5e35c86.js",
-    "static/js/787.9da1b81b.chunk.js": "/static/js/787.9da1b81b.chunk.js",
-    "static/media/chieu.jpg": "/static/media/chieu.9998f042a0913a2644f9.jpg",
-    "static/media/batdia.png": "/static/media/batdia.ee6198fd9d7fdc8b4100.png",
-    "static/media/ca.png": "/static/media/ca.589c35db08e5baf75041.png",
-    "static/media/tom.png": "/static/media/tom.df3178a0890dfd66ad9e.png",
-    "static/media/cua.png": "/static/media/cua.81e7e81f16dfc4e11baa.png",
-    "static/media/huou.png": "/static/media/huou.45819c8a0b82637bfd72.png",
-    "static/media/ga.png": "/static/media/ga.7edc995864b8cf4ba79e.png",
-    "static/media/bau.png": "/static/media/bau.ca3aee797d3d9db756e2.png",
-    "index.html": "/index.html",
-    "main.a8b65071.css.map": "/static/css/main.a8b65071.css.map",
-    "main.c5e35c86.js.map": "/static/js/main.c5e35c86.js.map",
-    "787.9da1b81b.chunk.js.map": "/static/js/787.9da1b81b.chunk.js.map"
+    "main.css": "/tom-cua-ca/static/css/main.540e17a7.css",
+    "main.js": "/tom-cua-ca/static/js/main.553ef25e.js",
+    "static/js/787.9da1b81b.chunk.js": "/tom-cua-ca/static/js/787.9da1b81b.chunk.js",
+    "static/media/chieu.jpg": "/tom-cua-ca/static/media/chieu.9998f042a0913a2644f9.jpg",
+    "static/media/batdia.png": "/tom-cua-ca/static/media/batdia.ee6198fd9d7fdc8b4100.png",
+    "static/media/ca.png": "/tom-cua-ca/static/media/ca.589c35db08e5baf75041.png",
+    "static/media/tom.png": "/tom-cua-ca/static/media/tom.df3178a0890dfd66ad9e.png",
+    "static/media/cua.png": "/tom-cua-ca/static/media/cua.81e7e81f16dfc4e11baa.png",
+    "static/media/huou.png": "/tom-cua-ca/static/media/huou.45819c8a0b82637bfd72.png",
+    "static/media/ga.png": "/tom-cua-ca/static/media/ga.7edc995864b8cf4ba79e.png",
+    "static/media/bau.png": "/tom-cua-ca/static/media/bau.ca3aee797d3d9db756e2.png",
+    "index.html": "/tom-cua-ca/index.html",
+    "main.540e17a7.css.map": "/tom-cua-ca/static/css/main.540e17a7.css.map",
+    "main.553ef25e.js.map": "/tom-cua-ca/static/js/main.553ef25e.js.map",
+    "787.9da1b81b.chunk.js.map": "/tom-cua-ca/static/js/787.9da1b81b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8b65071.css",
-    "static/js/main.c5e35c86.js"
+    "static/css/main.540e17a7.css",
+    "static/js/main.553ef25e.js"
   ]
 }
