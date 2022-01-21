@@ -111,7 +111,7 @@ function App() {
     setTimeout(() => {
       setLax(false);
       setOpen(true);
-    }, 1000);
+    }, 2000);
   };
 
   return (
