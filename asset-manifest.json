@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tom-cua-ca/static/css/main.b795ca15.css",
-    "main.js": "/tom-cua-ca/static/js/main.553ef25e.js",
+    "main.css": "/tom-cua-ca/static/css/main.3c6085f2.css",
+    "main.js": "/tom-cua-ca/static/js/main.d8981799.js",
     "static/js/787.9da1b81b.chunk.js": "/tom-cua-ca/static/js/787.9da1b81b.chunk.js",
     "static/media/chieu.jpg": "/tom-cua-ca/static/media/chieu.9998f042a0913a2644f9.jpg",
     "static/media/batdia.png": "/tom-cua-ca/static/media/batdia.ee6198fd9d7fdc8b4100.png",
@@ -12,12 +12,12 @@
     "static/media/ga.png": "/tom-cua-ca/static/media/ga.7edc995864b8cf4ba79e.png",
     "static/media/bau.png": "/tom-cua-ca/static/media/bau.ca3aee797d3d9db756e2.png",
     "index.html": "/tom-cua-ca/index.html",
-    "main.b795ca15.css.map": "/tom-cua-ca/static/css/main.b795ca15.css.map",
-    "main.553ef25e.js.map": "/tom-cua-ca/static/js/main.553ef25e.js.map",
+    "main.3c6085f2.css.map": "/tom-cua-ca/static/css/main.3c6085f2.css.map",
+    "main.d8981799.js.map": "/tom-cua-ca/static/js/main.d8981799.js.map",
     "787.9da1b81b.chunk.js.map": "/tom-cua-ca/static/js/787.9da1b81b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b795ca15.css",
-    "static/js/main.553ef25e.js"
+    "static/css/main.3c6085f2.css",
+    "static/js/main.d8981799.js"
   ]
 }
